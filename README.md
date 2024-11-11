@@ -15,3 +15,5 @@ Dice Roller is a command-line application that simulates rolling dice. It allows
 2. Navigate to the directory where you cloned the repository.
 3. Run the following command to execute the dice roller:
 
+## output
+![Screenshot](https://github.com/CosmicViraj/dice-roller_kT/blob/main/WhatsApp%20Image%202024-11-11%20at%2023.25.10_9a562e40.jpg)
